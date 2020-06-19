@@ -1,5 +1,5 @@
 # Speech Recognition
-A C# Windows 10 Store Application Speech Recognition
+A C# Windows 10 Store Speech Recognition Application
 
 This project was an initial attempt at speech recognition.  Using Window's 10 Store Application's baked in functionality, you can record audio running this on a Windows 10 maching.  However, the speech recognition portion never worked as expected.
 
